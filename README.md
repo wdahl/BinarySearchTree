@@ -14,10 +14,10 @@ Defines the characteristics of the nodes that make up the tree.
 
 ## Run
 To complie and run the code run the following in the terminla:
-'''bash
+```bash
 javac *.java
 java BinarySearchTreeDriver
-'''
+```
 
 ## Output
 Outputs the iterations of the tree after performing add and remove operations on the tree.
